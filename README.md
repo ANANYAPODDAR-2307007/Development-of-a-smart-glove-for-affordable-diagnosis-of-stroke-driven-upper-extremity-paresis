@@ -1,0 +1,2 @@
+# Development-of-a-smart-glove-for-affordable-diagnosis-of-stroke-driven-upper-extremity-paresis
+* **Hardware:** Custom flexible PCBs integrating 18-channel arrays, flex sensors, IMUs, and sEMG modules. * **Embedded System:** ESP32-based data acquisition featuring sensor calibration and bio-impedance monitoring. * **Application:** A neuromuscular smart glove engineered for stroke rehabilitation and diagnostic motor impairment assessments.
